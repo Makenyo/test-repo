@@ -1,2 +1,2 @@
 # test-repo
-demo
+We can do it!
